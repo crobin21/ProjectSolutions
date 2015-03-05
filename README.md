@@ -1,3 +1,3 @@
 # ProjectSolutions
 
-Project Solutions to some online excercises
+Project Solutions to some online exercises
